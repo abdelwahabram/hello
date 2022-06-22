@@ -5,5 +5,5 @@ int main(){
     for(int i{};i<5;i++){
         std::cout<<i<<" ";
     }
-    // just a comment
+    /* just a comment */
 }
